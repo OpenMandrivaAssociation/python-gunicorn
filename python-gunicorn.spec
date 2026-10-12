@@ -1,6 +1,6 @@
 Name:		python-gunicorn
 Version:	23.0.0
-Release:	1
+Release:	2
 Summary:	Python WSGI HTTP server, Frappe fork
 License:	MIT
 Group:		Development/Python
